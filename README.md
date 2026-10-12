@@ -1,6 +1,6 @@
 ### Hi, I'm Binoy
 
-I'm an MSE student in Computer and Information Science at the University of Pennsylvania. I build ML systems and clinical research software, and I'm looking for **Summer 2027 software engineering / ML internships**.
+I'm an MSE student in Computer and Information Science at the University of Pennsylvania. I build ML systems and clinical research software.
 
 #### Featured work
 
